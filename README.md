@@ -1,4 +1,4 @@
-# NUMPY.
+# NUMPY #
 #NUMERICAL PYTHON 
 #numerical computation
 #We are going to use Numpy in Machine Learning, Deep Learning and Computer Vision because Computer understands numbers. 
